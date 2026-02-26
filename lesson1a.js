@@ -1,0 +1,5 @@
+console.log("Hello world")
+console.log("Welcome to modcom")
+console.log("we are happy to host you")
+console.log("feel at home")
+console.log("Be our guests")
