@@ -17,8 +17,8 @@ else {
 }
 
 // example 2
-let distance = 2000
-if (distance>=0 && distance<100){
+let distance =100
+if (distance>=0 && distance<=100){
     console.log("pay 5 USD")
 }
 else if (distance>=101 && distance<500){
